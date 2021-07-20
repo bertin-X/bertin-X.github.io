@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bertin's personal website
 
 You can use the [editor on GitHub](https://github.com/bertin-X/bertin-X.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
